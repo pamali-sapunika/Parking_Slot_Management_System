@@ -1,0 +1,10 @@
+Make Arrival and Departure both as boolean values -> Record table
+
+Have to send the button status as a boolean with ID when updating master data for sudden slot changes -> Slot table
+
+Make every user get notified (automatically refresh the page or the number for every user)
+
+
+NEXTDAY - START FROM RROR OF TWO BUTTONS
+
+frontend backend - npm run dev
