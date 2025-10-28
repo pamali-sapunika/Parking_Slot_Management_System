@@ -1,4 +1,4 @@
-# Vehicle Parking Mate – Office Parking Solution
+# Vehicle Parking Mate – Parking Space Management System
 
 **Vehicle Parking Mate** is a simple and responsive web application developed as part of an *Ice Breaker project* in internship. It addresses common parking challenges in office environments by providing an easy-to-use interface for managing parking slots.
 
