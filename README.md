@@ -17,3 +17,6 @@ This solution is designed with input from on-site security staff to meet real-wo
 - Chakra UI for easy responsiveness
 - Local storage for session management
 - Nodejs with Express for backend
+
+- <img width="1918" height="885" alt="image" src="https://github.com/user-attachments/assets/badb4f00-3deb-4a2d-9bef-05f963a1784b" />
+
